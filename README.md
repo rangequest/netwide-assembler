@@ -8,6 +8,8 @@ Netwide Assembler (NASM), an asssembler for the x86 CPU architecture portable to
 
 https://github.com/netwide-assembler/nasm
 
+![CPU](cpu.png)
+
 # Only Ones and Zeros
 
 The processor understands only ones and zeors. (Or low and high voltage cutoffs). Machine language is too complex to write code. Therefore, we have to use assembly language for programming.
