@@ -35,3 +35,7 @@ The processor understands only ones and zeors. (Or low and high voltage cutoffs)
 - Fetching the instruction from memory
 - Decoding or identifying the instruction
 - Executing the instruction
+
+# Hello, World!
+
+![Hello World](hello.png)
