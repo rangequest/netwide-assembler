@@ -16,6 +16,10 @@ The processor understands only ones and zeors. (Or low and high voltage cutoffs)
 
 ![1s+0s](1s0s.png)
 
+# First Assembly Language Code
+
+![The First](first-assembly.png)
+
 # Fetch-decode-execute cycle
 
 ![Fetch Decode Execute](fetch-decode-execute.png)
