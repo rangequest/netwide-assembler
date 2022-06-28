@@ -28,4 +28,10 @@ The processor understands only ones and zeors. (Or low and high voltage cutoffs)
 
 # Fetch-decode-execute cycle
 
+## Execution Cycle
+
 ![Fetch Decode Execute](fetch-decode-execute.png)
+
+- Fetching the instruction from memory
+- Decoding or identifying the instruction
+- Executing the instruction
