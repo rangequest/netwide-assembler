@@ -13,3 +13,5 @@ https://github.com/netwide-assembler/nasm
 The processor understands only ones and zeors. (Or low and high voltage cutoffs). Machine language is too complex to write code. Therefore, we have to use assembly language for programming.
 
 ![1s+0s](1s0s.png)
+
+# Fetch-decode-execute cycle
